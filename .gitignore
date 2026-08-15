@@ -1,0 +1,13 @@
+# Java compilado
+*.class
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Pastas de compilação
+bin/
+
+# Pastas src
+src/
